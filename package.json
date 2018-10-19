@@ -2,7 +2,7 @@
     "name": "bulma-snippets",
     "displayName": "Bulma Snippets",
     "description": "Simplete VS Code extension for Bulma CSS framework.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "amnkhan",
     "engines": {
         "vscode": "^1.28.0"
@@ -14,6 +14,14 @@
         "snippets": [
             {
                 "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
                 "path": "./snippets/snippets.json"
             }
         ]
