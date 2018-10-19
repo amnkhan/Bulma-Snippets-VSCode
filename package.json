@@ -4,6 +4,11 @@
     "description": "Simplete VS Code extension for Bulma CSS framework.",
     "version": "1.0.0",
     "publisher": "amnkhan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/amnkhan/Bulma-Snippets-VSCode",
+    },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.28.0"
     },
