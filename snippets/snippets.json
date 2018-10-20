@@ -17,5 +17,23 @@
             "</html>",
         ],
         "description": "Bulma Snippets Generator",
+    },
+    "Bulma Hero Section": {
+        "prefix": "blhero",
+        "body": [
+            "<section class=\"hero\">",
+                "<div class=\"hero-body\">",
+                    "<div class=\"container\">",
+                    "<h1 class=\"title\">",
+                        "$0",
+                    "</h1>",
+                    "<h2 class=\"subtitle\">",
+
+                    "</h2>",
+                    "</div>",
+                "</div>",
+            "</section>",
+        ],
+        "description": "Creates a Hero section",
     }
 }
